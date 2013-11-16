@@ -1,3 +1,4 @@
+#!/usr/bin/python2.7
 from functions import Functions
 
 def main():
